@@ -1,0 +1,32 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.chicmic</groupId>
+  <artifactId>ERPbasedPro</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>testproject</name>
+  <dependencies>
+	  <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.8.0</version>
+    <scope>test</scope>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-api</artifactId>
+    <version>2.0.6</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.slf4j/log4j-over-slf4j -->
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>log4j-over-slf4j</artifactId>
+    <version>2.0.6</version>
+</dependency>
+
+
+  </dependencies>
+  
+  
+</project>
